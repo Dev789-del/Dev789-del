@@ -1,4 +1,4 @@
-Nguyen Quang Huy
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%237677F7&lines=My+name+is+Nguyen+Quang+Huy!;Here+is+my+github+stats!)](https://git.io/typing-svg)
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Dev789-del&count_private=true&theme=tokyonight&showicons=true)]()
 <!---
