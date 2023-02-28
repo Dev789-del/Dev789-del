@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=My+name+is+Nguyen+Quang+Huy.;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1213F7&width=435&lines=My+name+is+Nguyen+Quang+Huy;Below+is+my+GitHub+profile)](https://git.io/typing-svg)
 
 1️⃣If you want to make your readme autotyping file,please go to https://readme-typing-svg.herokuapp.com/demo/ for some help.
 
